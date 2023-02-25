@@ -1,0 +1,292 @@
+{
+  "catalog": [
+    {
+      "id": 1,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo1.svg",
+      "category": "Велотур",
+      "level": "Легкий",
+      "price": 5000,
+      "rate": 4.5
+    },
+    {
+      "id": 2,
+      "title": "Чункурчак",
+      "image": "./catalog/photo2.svg",
+      "category": "Велотур",
+      "level": "Легкий",
+      "price": 5000,
+      "rate": 5
+    },
+    {
+      "id": 3,
+      "title": "Ущелье Ала-Арча",
+      "image": "./catalog/photo3.svg",
+      "category": "Велотур",
+      "level": "Средний",
+      "price": 5000,
+      "rate": 5
+    },
+    {
+      "id": 4,
+      "title": "Ущелье Иссык-Ата",
+      "image": "./catalog/photo4.svg",
+      "category": "Велотур",
+      "level": "Средний",
+      "price": 5000,
+      "rate": 5
+    },
+    {
+      "id": 5,
+      "title": "Суусамыр",
+      "image": "./catalog/photo5.svg",
+      "category": "Велотур",
+      "level": "Сложный",
+      "price": 5000,
+      "rate": 4.5
+    },
+    {
+      "id": 6,
+      "title": "Алайская Долина",
+      "image": "./catalog/photo6.svg",
+      "category": "Велотур",
+      "level": "Сложный",
+      "price": 5000,
+      "rate": 5
+    },
+    {
+      "id": 7,
+      "title": "Жети-Огуз",
+      "image": "./catalog/photo7.svg",
+      "category": "Велотур",
+      "level": "Экстремальный",
+      "price": 5000,
+      "rate": 5
+    },
+    {
+      "id": 8,
+      "title": "Иссык-Куль",
+      "image": "./catalog/photo8.svg",
+      "category": "Велотур",
+      "level": "Экстремальный",
+      "price": 5000,
+      "rate": 5
+    },
+    {
+      "id": 9,
+      "title": "Ущелье Ала-Арча",
+      "image": "./catalog/photo9.svg",
+      "category": "Джип тур",
+      "level": "Легкий",
+      "price": 5000,
+      "rate": 5
+    },
+    {
+      "id": 10,
+      "title": "Чункурчак",
+      "image": "./catalog/photo10.svg",
+      "category": "Джип тур",
+      "level": "Легкий",
+      "price": 5000,
+      "rate": 5
+    },
+    {
+      "id": 11,
+      "title": "Озеро кель-Суу",
+      "image": "./catalog/photo11.svg",
+      "category": "Джип тур",
+      "level": "Средний",
+      "price": 5000,
+      "rate": 4
+    },
+    {
+      "id": 12,
+      "title": "Ак-Сай",
+      "image": "./catalog/photo12.svg",
+      "category": "Джип тур",
+      "level": "Средний",
+      "price": 100,
+      "rate": 4.8
+    },
+    {
+      "id": 13,
+      "title": "Ташрабат Наарын",
+      "image": "./catalog/photo13.svg",
+      "category": "Джип тур",
+      "level": "Сложный",
+      "price": 100,
+      "rate": 4.5
+    },
+    {
+      "id": 14,
+      "title": "Суусамыр",
+      "image": "./catalog/photo14.svg",
+      "category": "Джип тур",
+      "level": "Сложный",
+      "price": 100,
+      "rate": 4.5
+    },
+    {
+      "id": 15,
+      "title": "Иссык-Куль",
+      "image": "./catalog/photo15.svg",
+      "category": "Джип тур",
+      "level": "Экстремальный",
+      "price": 100,
+      "rate": 5
+    },
+    {
+      "id": 16,
+      "title": "Ущелье Ала-Арча",
+      "image": "./catalog/photo16.svg",
+      "category": "Джип тур",
+      "level": "Экстремальный",
+      "price": 100,
+      "rate": 4.5
+    },
+    {
+      "id": 17,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo17.svg",
+      "category": "Конный тур",
+      "level": "Легкий",
+      "price": 100,
+      "rate": 4.8
+    },
+    {
+      "id": 18,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo18.svg",
+      "category": "Конный тур",
+      "level": "Легкий",
+      "price": 100,
+      "rate": 5
+    },
+    {
+      "id": 19,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo19.svg",
+      "category": "Конный тур",
+      "level": "Средний",
+      "price": 100,
+      "rate": 5
+    },
+    {
+      "id": 20,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo20.svg",
+      "category": "Конный тур",
+      "level": "Средний",
+      "price": 100,
+      "rate": 4.8
+    },
+    {
+      "id": 21,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo21.svg",
+      "category": "Конный тур",
+      "level": "Сложный",
+      "price": 100,
+      "rate": 5
+    },
+    {
+      "id": 22,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo22.svg",
+      "category": "Конный тур",
+      "level": "Сложный",
+      "price": 100,
+      "rate": 4
+    },
+    {
+      "id": 23,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo23.svg",
+      "category": "Конный тур",
+      "level": "Экстремальный",
+      "price": 100,
+      "rate": 5
+    },
+    {
+      "id": 24,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo24.svg",
+      "category": "Конный тур",
+      "level": "Экстремальный",
+      "price": 100,
+      "rate": 4.8
+    },
+    {
+      "id": 25,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo25.svg",
+      "category": "Пеший тур",
+      "level": "Экстремальный",
+      "price": 5000,
+      "rate": 5
+    },
+    {
+      "id": 26,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo26.svg",
+      "category": "Пеший тур",
+      "level": "Легкий",
+      "price": 5000,
+      "rate": 5
+    },
+    {
+      "id": 27,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo27.svg",
+      "category": "Пеший тур",
+      "level": "Легкий",
+      "price": 5000,
+      "rate": 5
+    },
+    {
+      "id": 28,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo28.svg",
+      "category": "Пеший тур",
+      "level": "Средний",
+      "price": 5000,
+      "rate": 5
+    },
+    {
+      "id": 29,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo29.svg",
+      "category": "Пеший тур",
+      "level": "Средний",
+      "price": 5000,
+      "rate": 5
+    },
+    {
+      "id": 30,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo30.svg",
+      "category": "Пеший тур",
+      "level": "Сложный",
+      "price": 5000,
+      "rate": 4.8
+    },
+    {
+      "id": 31,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo31.svg",
+      "category": "Пеший тур",
+      "level": "Сложный",
+      "price": 5000,
+      "rate": 5
+    },
+    {
+      "id": 32,
+      "title": "Ущелье Чон-Кемин",
+      "image": "./catalog/photo32.svg",
+      "category": "Пеший тур",
+      "level": "Экстремальный",
+      "price": 5000,
+      "rate": 4.8
+    }
+  ]
+}
